@@ -1,3 +1,4 @@
 Name: Trong Hung Nguyen
 Program: Computer Programming
 I hope to learn how to use Git and GitHub to manage software projects.
+I like poutine and cheese burger.
